@@ -1,0 +1,1 @@
+npm i nodemon esm dotenv graphql@14 express apollo-server-express mongoose bcryptjs graphql-iso-date jsonwebtoken
